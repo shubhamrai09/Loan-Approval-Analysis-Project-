@@ -52,38 +52,12 @@ Two classification models — **Decision Tree** and **Random Forest** — are tr
 
 # | Model Results |
 |:---:|:---:|:---:|
-<img width="1517" height="725" alt="Screenshot 2026-07-12 121410" src="https://github.com/user-attachments/assets/860d558c-8d2a-4268-8a83-3a024f540cf1" />
+<img width="1512" height="736" alt="Screenshot 2026-07-12 121448" src="https://github.com/user-attachments/assets/afb48fe5-e1b8-44a2-8d12-0b983a2e0c54" />
+<img width="1517" height="725" alt="Screenshot 2026-07-12 121410" src="https://github.com/user-attachments/assets/92560c06-f9eb-4c67-a659-387e552805d5" />
+
+<img width="1512" height="683" alt="Screenshot 2026-07-12 121530" src="https://github.com/user-attachments/assets/2b9b88b5-4f82-4eb6-9175-66c85d0298b0" />
 
 
-
-<details>
-<summary>📝 How to add your screenshots (click to expand)</summary>
-
-Your screenshots currently live locally at:
-
-```
-C:\Users\Shubham\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 121410.png
-C:\Users\Shubham\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 121448.png
-C:\Users\Shubham\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 121530.png
-```
-
-GitHub can't reach files on your local computer — only files that are actually pushed into the repository. To make the table above render correctly:
-
-1. Create a folder named `screenshots` in your repo root.
-2. Copy the three images into it and rename them (for cleaner URLs, avoid spaces):
-   - `Screenshot 2026-07-12 121410.png` → `screenshots/screenshot-1.png`
-   - `Screenshot 2026-07-12 121448.png` → `screenshots/screenshot-2.png`
-   - `Screenshot 2026-07-12 121530.png` → `screenshots/screenshot-3.png`
-3. Commit and push:
-   ```bash
-   git add screenshots/
-   git commit -m "Add project screenshots"
-   git push
-   ```
-
-</details>
-
----
 
 ## 📊 About the Dataset
 
