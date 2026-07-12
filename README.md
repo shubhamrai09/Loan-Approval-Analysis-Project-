@@ -51,7 +51,7 @@ Two classification models — **Decision Tree** and **Random Forest** — are tr
 > Place your screenshot images inside a `screenshots/` folder in the repository root, then they will render automatically below.
 
 # | Model Results |
-|:---:|:---:|:---:|
+
 <img width="1517" height="725" alt="Screenshot 2026-07-12 121410" src="https://github.com/user-attachments/assets/92560c06-f9eb-4c67-a659-387e552805d5" />
 <img width="1512" height="736" alt="Screenshot 2026-07-12 121448" src="https://github.com/user-attachments/assets/30e51fbd-b152-4d9d-8c0f-ea6335f8181b" />
 <img width="1512" height="683" alt="Screenshot 2026-07-12 121530" src="https://github.com/user-attachments/assets/3065fa0b-f276-4c87-9655-3b3880359c86" />
@@ -64,7 +64,7 @@ Two classification models — **Decision Tree** and **Random Forest** — are tr
 The **Loan Approval Dataset** contains financial and demographic records used to determine loan eligibility. Key columns include:
 
 | Feature | Description |
-|---|---|
+
 | `no_of_dependents` | Number of dependents of the applicant |
 | `education` | Graduate / Not Graduate |
 | `self_employed` | Employment type (Yes/No) |
