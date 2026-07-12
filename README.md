@@ -52,7 +52,8 @@ Two classification models — **Decision Tree** and **Random Forest** — are tr
 
 | Data Overview & Preprocessing | Exploratory Data Analysis | Model Results |
 |:---:|:---:|:---:|
-| ![Screenshot 1](./screenshots/screenshot-1.png) | ![Screenshot 2](./screenshots/screenshot-2.png) | ![Screenshot 3](./screenshots/screenshot-3.png) |
+
+<img width="1885" height="920" alt="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 121410.png" src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" />
 
 <details>
 <summary>📝 How to add your screenshots (click to expand)</summary>
