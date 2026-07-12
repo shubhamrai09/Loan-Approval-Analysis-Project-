@@ -50,10 +50,11 @@ Two classification models — **Decision Tree** and **Random Forest** — are tr
 
 > Place your screenshot images inside a `screenshots/` folder in the repository root, then they will render automatically below.
 
-| Data Overview & Preprocessing | Exploratory Data Analysis | Model Results |
+# | Model Results |
 |:---:|:---:|:---:|
+<img width="1517" height="725" alt="Screenshot 2026-07-12 121410" src="https://github.com/user-attachments/assets/860d558c-8d2a-4268-8a83-3a024f540cf1" />
 
-<img width="1885" height="920" alt="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 121410.png" src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" />
+
 
 <details>
 <summary>📝 How to add your screenshots (click to expand)</summary>
