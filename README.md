@@ -52,8 +52,9 @@ Two classification models — **Decision Tree** and **Random Forest** — are tr
 
 # | Model Results |
 |:---:|:---:|:---:|
-<img width="1512" height="736" alt="Screenshot 2026-07-12 121448" src="https://github.com/user-attachments/assets/afb48fe5-e1b8-44a2-8d12-0b983a2e0c54" />
 <img width="1517" height="725" alt="Screenshot 2026-07-12 121410" src="https://github.com/user-attachments/assets/92560c06-f9eb-4c67-a659-387e552805d5" />
+
+<img width="1512" height="736" alt="Screenshot 2026-07-12 121448" src="https://github.com/user-attachments/assets/afb48fe5-e1b8-44a2-8d12-0b983a2e0c54" />
 
 <img width="1512" height="683" alt="Screenshot 2026-07-12 121530" src="https://github.com/user-attachments/assets/2b9b88b5-4f82-4eb6-9175-66c85d0298b0" />
 
